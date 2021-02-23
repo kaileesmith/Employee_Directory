@@ -1,10 +1,11 @@
 {
-  "name": "React-homework",
+  "name": "employee_directory",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "dependencies": {
     "axios": "^0.21.1",
+    "mongoose": "^5.11.17",
     "react-router-dom": "^5.2.0"
   },
   "devDependencies": {},
